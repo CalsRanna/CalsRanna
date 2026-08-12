@@ -1,26 +1,42 @@
 <!-- Cals Ranna · GitHub Profile README · Updated 2026-08-12 -->
 
-<div align="center">
-
-# 👋 Hi, I'm Cals Ranna
-
-<a href="https://github.com/CalsRanna">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Dart%2FFlutter+developer;Open-source+tooling+enthusiast;Building+UI+libraries+%26+dev+tools;Always+learning+new+things&font=Fira+Code&center=true&width=520&height=50&color=39d353&vCenter=true&pause=1200&size=20" alt="Typing SVG" />
-</a>
-
-</div>
-
-I build open-source libraries and developer tools, mostly with **Dart & Flutter** — from enterprise UI libraries to terminal AI assistants. Code is my craft. 🛠️
-
-- 🔭 I'm currently working on **athena** — a terminal AI assistant, and **foxy** — a WOW editor
-- 🌱 I'm exploring reverse engineering, compilers, and agentic tooling
-- 📚 Creator of [ant_design_flutter](https://github.com/CalsRanna/ant_design_flutter), an enterprise-class Flutter UI library
-- 💬 Ask me about Flutter, Dart tooling, or anything open source
-- 📫 Reach me at [calsranna@gmail.com](mailto:calsranna@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" alt="Cals Ranna — Dart/Flutter developer" />
+</picture>
 
 <br>
 
-## 🧰 Tech Stack
+## About
+
+<p align="left" style="display:flex;align-items:center;gap:10px;margin:6px 0;">
+  <img src="assets/icon-terminal.svg" width="18" height="18" alt="" />
+  <span>Currently building <b>athena</b> — a terminal AI assistant, and <b>foxy</b> — a WOW editor</span>
+</p>
+
+<p align="left" style="display:flex;align-items:center;gap:10px;margin:6px 0;">
+  <img src="assets/icon-bulb.svg" width="18" height="18" alt="" />
+  <span>Exploring reverse engineering, compilers &amp; agentic tooling</span>
+</p>
+
+<p align="left" style="display:flex;align-items:center;gap:10px;margin:6px 0;">
+  <img src="assets/icon-package.svg" width="18" height="18" alt="" />
+  <span>Creator of <a href="https://github.com/CalsRanna/ant_design_flutter">ant_design_flutter</a> — an enterprise-class Flutter UI library</span>
+</p>
+
+<p align="left" style="display:flex;align-items:center;gap:10px;margin:6px 0;">
+  <img src="assets/icon-chat.svg" width="18" height="18" alt="" />
+  <span>Happy to talk about Flutter, Dart tooling &amp; open source</span>
+</p>
+
+<p align="left" style="display:flex;align-items:center;gap:10px;margin:6px 0;">
+  <img src="assets/icon-mail.svg" width="18" height="18" alt="" />
+  <span>Reach me at <a href="mailto:calsranna@gmail.com">calsranna@gmail.com</a></span>
+</p>
+
+<br>
+
+## <img src="assets/badge-layers.svg" width="22" height="22" alt="" /> Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,7 +46,7 @@ I build open-source libraries and developer tools, mostly with **Dart & Flutter*
 
 <br>
 
-## 📊 GitHub Stats
+## <img src="assets/badge-chart.svg" width="22" height="22" alt="" /> GitHub Stats
 
 <table align="center">
   <tr>
@@ -59,7 +75,7 @@ I build open-source libraries and developer tools, mostly with **Dart & Flutter*
 
 <br>
 
-## 🚀 Featured Projects
+## <img src="assets/badge-star.svg" width="22" height="22" alt="" /> Featured Projects
 
 <p align="center">
   <a href="https://github.com/CalsRanna/ant_design_flutter"><img src="https://img.shields.io/github/stars/CalsRanna/ant_design_flutter?style=flat-square&label=ant_design_flutter&labelColor=1f2328&color=2ea043" alt="ant_design_flutter" /></a>
@@ -78,9 +94,9 @@ I build open-source libraries and developer tools, mostly with **Dart & Flutter*
 <br>
 
 ```bash
-$ echo "Built with 🖤 by Cals Ranna — still a terminal kid at heart"
+$ echo "Still a terminal kid at heart — crafted by Cals Ranna"
 ```
 
-<div align="center">
-  <sub>⭐ If you like what I build, consider starring my repos — it fuels the caffeine ☕</sub>
-</div>
+<p align="center">
+  <sub>If you like what I build, consider starring my repos — it fuels the caffeine</sub>
+</p>

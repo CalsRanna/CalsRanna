@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" role="img" aria-label="Cals Ranna — Dart/Flutter developer">
+  <rect width="1000" height="280" rx="12" fill="#0d1117"/>
+  <rect width="1000" height="40" rx="12" fill="#161b22"/>
+  <rect y="28" width="1000" height="12" fill="#161b22"/>
+  <circle cx="40" cy="20" r="5.5" fill="#ff5f56"/>
+  <circle cx="58" cy="20" r="5.5" fill="#ffbd2e"/>
+  <circle cx="76" cy="20" r="5.5" fill="#27c93f"/>
+  <rect x="0" y="39.5" width="1000" height="1" fill="#30363d"/>
+  <text x="44" y="95" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#39d353">$ whoami</text>
+  <text x="44" y="137" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="600" fill="#e6edf3">Cals Ranna — Dart/Flutter developer</text>
+  <text x="44" y="165" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#8b949e">building open-source libraries &amp; dev tools since 2019</text>
+  <text x="44" y="205" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#39d353">$ ls ~/stack</text>
+  <text x="44" y="233" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#8b949e">dart · flutter · php · laravel · vue · c++ · bash</text>
+  <text x="44" y="263" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#39d353">$</text>
+  <rect x="64" y="243" width="11" height="20" fill="#39d353">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>

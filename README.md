@@ -43,12 +43,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CalsRanna&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=58a6ff&text_color=c9d1d9" />
-    <img src="https://github-readme-stats.vercel.app/api?username=CalsRanna&show_icons=true&hide_border=true" alt="GitHub stats" width="420" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=CalsRanna&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=58a6ff&text_color=c9d1d9" />
+    <img src="https://github-stats-extended.vercel.app/api?username=CalsRanna&show_icons=true&hide_border=true" alt="GitHub stats" width="420" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CalsRanna&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalsRanna&layout=compact&langs_count=8&hide_border=true" alt="Top languages" width="320" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=CalsRanna&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CalsRanna&layout=compact&langs_count=8&hide_border=true" alt="Top languages" width="320" />
   </picture>
 </p>
 

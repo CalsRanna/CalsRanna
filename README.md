@@ -1,57 +1,86 @@
-<!--
-  Cals Ranna · GitHub Profile README
-  Last updated: 2026-08-12
--->
-<pre>
-┌─[ CalsRanna · README ]─────────────────────────────────── [ ● ● ● ] ─┐
-│                                                                      │
-│  ██████   ████   ██      ██████                                      │
-│  ██      ██  ██  ██      ██                                          │
-│  ██      ██████  ██      ██████                                      │
-│  ██      ██  ██  ██          ██                                      │
-│  ██████  ██  ██  ██████  ██████                                      │
-│                                                                      │
-│  $ whoami                                                            │
-│  Cals Ranna — Dart/Flutter developer & tooling enthusiast            │
-│  Building open-source libraries and dev tools since 2019.            │
-│                                                                      │
-│  $ ls projects --top                                                 │
-│  ├── <a href="https://github.com/CalsRanna/ant_design_flutter">ant_design_flutter</a>     ★141   Enterprise-class Flutter UI libra…│
-│  ├── <a href="https://github.com/CalsRanna/foxy">foxy</a>                   ★40    WOW editor for wlk                │
-│  ├── <a href="https://github.com/CalsRanna/book_reader">book_reader</a>            ★6     Book reader app                   │
-│  ├── <a href="https://github.com/CalsRanna/athena">athena</a>                 ★3     Terminal AI assistant             │
-│  └── <a href="https://github.com/CalsRanna/launcher">launcher</a>               ★3     WOW simulator launcher            │
-│                                                                      │
-│  $ echo $STACK                                                       │
-│  Dart · Flutter · PHP · Laravel · C++ · Vue · Bash                   │
-│                                                                      │
-│  $ ./contact                                                         │
-│  ✉ <a href="mailto:calsranna@gmail.com">calsranna@gmail.com</a>                                               │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-</pre>
+<!-- Cals Ranna · GitHub Profile README · Updated 2026-08-12 -->
+
+<div align="center">
+
+# 👋 Hi, I'm Cals Ranna
+
+<a href="https://github.com/CalsRanna">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Dart%2FFlutter+developer;Open-source+tooling+enthusiast;Building+UI+libraries+%26+dev+tools;Always+learning+new+things&font=Fira+Code&center=true&width=520&height=50&color=39d353&vCenter=true&pause=1200&size=20" alt="Typing SVG" />
+</a>
+
+</div>
+
+I build open-source libraries and developer tools, mostly with **Dart & Flutter** — from enterprise UI libraries to terminal AI assistants. Code is my craft. 🛠️
+
+- 🔭 I'm currently working on **athena** — a terminal AI assistant, and **foxy** — a WOW editor
+- 🌱 I'm exploring reverse engineering, compilers, and agentic tooling
+- 📚 Creator of [ant_design_flutter](https://github.com/CalsRanna/ant_design_flutter), an enterprise-class Flutter UI library
+- 💬 Ask me about Flutter, Dart tooling, or anything open source
+- 📫 Reach me at [calsranna@gmail.com](mailto:calsranna@gmail.com)
+
+<br>
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/github/followers/CalsRanna?style=flat-square&label=followers&logo=github&color=39d353" alt="followers" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,php,laravel,vue,cpp,mysql,sqlite,git,github,bash,linux&perline=12" alt="Tech Stack" />
+  </a>
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=CalsRanna&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=58a6ff&text_color=c9d1d9" />
+        <img src="https://github-stats-extended.vercel.app/api?username=CalsRanna&show_icons=true&hide_border=true" alt="GitHub Stats" width="420" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=CalsRanna&theme=github-dark&hide_border=true&border_radius=6" />
+        <img src="https://streak-stats.demolab.com/?user=CalsRanna" alt="GitHub Streak" width="400" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=CalsRanna&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CalsRanna&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" width="420" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/CalsRanna/ant_design_flutter"><img src="https://img.shields.io/github/stars/CalsRanna/ant_design_flutter?style=flat-square&label=ant_design_flutter&labelColor=1f2328&color=2ea043" alt="ant_design_flutter" /></a>
+  <a href="https://github.com/CalsRanna/foxy"><img src="https://img.shields.io/github/stars/CalsRanna/foxy?style=flat-square&label=foxy&labelColor=1f2328&color=2ea043" alt="foxy" /></a>
+  <a href="https://github.com/CalsRanna/book_reader"><img src="https://img.shields.io/github/stars/CalsRanna/book_reader?style=flat-square&label=book_reader&labelColor=1f2328&color=2ea043" alt="book_reader" /></a>
+  <br>
+  <a href="https://github.com/CalsRanna/athena"><img src="https://img.shields.io/github/stars/CalsRanna/athena?style=flat-square&label=athena&labelColor=1f2328&color=2ea043" alt="athena" /></a>
+  <a href="https://github.com/CalsRanna/warcrafty"><img src="https://img.shields.io/github/stars/CalsRanna/warcrafty?style=flat-square&label=warcrafty&labelColor=1f2328&color=2ea043" alt="warcrafty" /></a>
+  <a href="https://github.com/CalsRanna/launcher"><img src="https://img.shields.io/github/stars/CalsRanna/launcher?style=flat-square&label=launcher&labelColor=1f2328&color=2ea043" alt="launcher" /></a>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=CalsRanna&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=58a6ff&text_color=c9d1d9" />
-    <img src="https://github-stats-extended.vercel.app/api?username=CalsRanna&show_icons=true&hide_border=true" alt="GitHub stats" width="420" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=CalsRanna&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CalsRanna&layout=compact&langs_count=8&hide_border=true" alt="Top languages" width="320" />
-  </picture>
+  <a href="https://github.com/CalsRanna"><img src="https://img.shields.io/github/followers/CalsRanna?style=flat-square&label=followers&logo=github&color=39d353" alt="followers" /></a>
 </p>
 
----
+<br>
 
-<sub>README crafted by hand with `$EDITOR` + 🖤 · terminal-styled · stats cards by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub>
+```bash
+$ echo "Built with 🖤 by Cals Ranna — still a terminal kid at heart"
+```
+
+<div align="center">
+  <sub>⭐ If you like what I build, consider starring my repos — it fuels the caffeine ☕</sub>
+</div>

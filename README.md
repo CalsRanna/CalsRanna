@@ -1,11 +1,14 @@
 <!-- Cals Ranna · GitHub Profile README · Updated 2026-08-12 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="Cals Ranna — Dart/Flutter developer" />
-</picture>
+<div align="center">
 
-<br>
+# <img src="assets/icon-wave.svg" width="32" height="32" alt="" /> Hi, I'm Cals Ranna
+
+<a href="https://github.com/CalsRanna">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Dart%2FFlutter+developer;Open-source+tooling+enthusiast;Building+UI+libraries+%26+dev+tools;Always+learning+new+things&font=Fira+Code&center=true&width=520&height=50&color=39d353&vCenter=true&pause=1200&size=20" alt="Typing SVG" />
+</a>
+
+</div>
 
 ## About
 
